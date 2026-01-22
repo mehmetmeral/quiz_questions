@@ -1,54 +1,47 @@
 {
   "questions": [
-    {
-      "question": "What is the capital of France?",
-      "correct_answer": "Paris",
-      "choices": ["London", "Berlin", "Rome"]
-    },
-    {
-      "question": "Which planet is known as the Red Planet?",
-      "correct_answer": "Mars",
-      "choices": ["Venus", "Jupiter", "Saturn"]
-    },
-    {
-      "question": "How many days are there in a leap year?",
-      "correct_answer": "366",
-      "choices": ["365", "360", "364"]
-    },
-    {
-      "question": "Which ocean is the largest?",
-      "correct_answer": "Pacific",
-      "choices": ["Atlantic", "Indian", "Arctic"]
-    },
-    {
-      "question": "What is the chemical symbol for water?",
-      "correct_answer": "H2O",
-      "choices": ["CO2", "O2", "NaCl"]
-    },
-    {
-      "question": "Who painted the Mona Lisa?",
-      "correct_answer": "Leonardo da Vinci",
-      "choices": ["Picasso", "Van Gogh", "Monet"]
-    },
-    {
-      "question": "Which animal is the fastest on land?",
-      "correct_answer": "Cheetah",
-      "choices": ["Lion", "Horse", "Dog"]
-    },
-    {
-      "question": "What is the capital of Japan?",
-      "correct_answer": "Tokyo",
-      "choices": ["Beijing", "Seoul", "Bangkok"]
-    },
-    {
-      "question": "Which number is even?",
-      "correct_answer": "4",
-      "choices": ["3", "5", "7"]
-    },
-    {
-      "question": "Which continent is the smallest?",
-      "correct_answer": "Australia",
-      "choices": ["Europe", "Africa", "Asia"]
-    }
+    ["What is the capital of France?", "Paris", "London", "Berlin", "Rome"],
+    ["Which planet is known as the Red Planet?", "Mars", "Venus", "Jupiter", "Saturn"],
+    ["How many days are there in a leap year?", "366", "365", "360", "364"],
+    ["Which ocean is the largest on Earth?", "Pacific", "Atlantic", "Indian", "Arctic"],
+    ["What is the chemical symbol for water?", "H2O", "CO2", "O2", "NaCl"],
+    ["Who painted the Mona Lisa?", "Leonardo da Vinci", "Picasso", "Van Gogh", "Monet"],
+    ["Which animal is the fastest on land?", "Cheetah", "Lion", "Horse", "Dog"],
+    ["What is the capital of Japan?", "Tokyo", "Beijing", "Seoul", "Bangkok"],
+    ["Which number is even?", "4", "3", "5", "7"],
+    ["Which continent is the smallest?", "Australia", "Europe", "Africa", "Asia"],
+
+    ["What is the largest country by land area?", "Russia", "Canada", "China", "USA"],
+    ["What gas do plants absorb?", "Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    ["How many continents are there?", "7", "5", "6", "8"],
+    ["Which instrument measures temperature?", "Thermometer", "Barometer", "Hygrometer", "Altimeter"],
+    ["What is the hardest natural substance?", "Diamond", "Gold", "Iron", "Silver"],
+    ["Which planet is closest to the Sun?", "Mercury", "Venus", "Earth", "Mars"],
+    ["What is the currency of the UK?", "Pound", "Euro", "Dollar", "Yen"],
+    ["How many minutes are in one hour?", "60", "100", "30", "90"],
+    ["Which metal is liquid at room temperature?", "Mercury", "Iron", "Copper", "Aluminum"],
+    ["Which organ pumps blood?", "Heart", "Lungs", "Brain", "Liver"],
+
+    ["What is the capital of Italy?", "Rome", "Milan", "Venice", "Naples"],
+    ["Which language has the most native speakers?", "Mandarin", "English", "Spanish", "Arabic"],
+    ["How many sides does a hexagon have?", "6", "5", "7", "8"],
+    ["Which planet has rings?", "Saturn", "Mars", "Earth", "Venus"],
+    ["What is the boiling point of water in Celsius?", "100", "90", "80", "70"],
+    ["Which animal is known as the King of the Jungle?", "Lion", "Tiger", "Elephant", "Leopard"],
+    ["What is the largest mammal?", "Blue whale", "Elephant", "Giraffe", "Hippo"],
+    ["Which continent is Egypt in?", "Africa", "Asia", "Europe", "Australia"],
+    ["How many players are on a soccer team?", "11", "10", "9", "12"],
+    ["What does CPU stand for?", "Central Processing Unit", "Computer Power Unit", "Core Processing Unit", "Central Program Unit"],
+
+    ["What is the capital of Germany?", "Berlin", "Munich", "Hamburg", "Frankfurt"],
+    ["Which shape has three sides?", "Triangle", "Square", "Circle", "Rectangle"],
+    ["What is the main gas in Earth's atmosphere?", "Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+    ["Which planet is known as Earth's twin?", "Venus", "Mars", "Jupiter", "Mercury"],
+    ["How many colors are in a rainbow?", "7", "5", "6", "8"],
+    ["Which animal can fly?", "Bat", "Dog", "Elephant", "Lion"],
+    ["What is the capital of Spain?", "Madrid", "Barcelona", "Valencia", "Seville"],
+    ["Which month has 28 days?", "All of them", "February", "January", "June"],
+    ["What is the largest ocean?", "Pacific", "Atlantic", "Indian", "Arctic"],
+    ["Which planet is farthest from the Sun?", "Neptune", "Uranus", "Saturn", "Jupiter"]
   ]
 }
