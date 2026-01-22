@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "choices": ["London", "Berlin", "Rome"]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "choices": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+      "question": "How many days are there in a leap year?",
+      "correct_answer": "366",
+      "choices": ["365", "360", "364"]
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "correct_answer": "Pacific",
+      "choices": ["Atlantic", "Indian", "Arctic"]
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "correct_answer": "H2O",
+      "choices": ["CO2", "O2", "NaCl"]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "choices": ["Picasso", "Van Gogh", "Monet"]
+    },
+    {
+      "question": "Which animal is the fastest on land?",
+      "correct_answer": "Cheetah",
+      "choices": ["Lion", "Horse", "Dog"]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "correct_answer": "Tokyo",
+      "choices": ["Beijing", "Seoul", "Bangkok"]
+    },
+    {
+      "question": "Which number is even?",
+      "correct_answer": "4",
+      "choices": ["3", "5", "7"]
+    },
+    {
+      "question": "Which continent is the smallest?",
+      "correct_answer": "Australia",
+      "choices": ["Europe", "Africa", "Asia"]
+    }
+  ]
+}
