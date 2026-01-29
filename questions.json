@@ -10,7 +10,6 @@
     ["What is the capital of Japan?", "Tokyo", "Beijing", "Seoul", "Bangkok"],
     ["Which number is even?", "4", "3", "5", "7"],
     ["Which continent is the smallest?", "Australia", "Europe", "Africa", "Asia"],
-
     ["What is the largest country by land area?", "Russia", "Canada", "China", "USA"],
     ["What gas do plants absorb?", "Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
     ["How many continents are there?", "7", "5", "6", "8"],
@@ -21,7 +20,6 @@
     ["How many minutes are in one hour?", "60", "100", "30", "90"],
     ["Which metal is liquid at room temperature?", "Mercury", "Iron", "Copper", "Aluminum"],
     ["Which organ pumps blood?", "Heart", "Lungs", "Brain", "Liver"],
-
     ["What is the capital of Italy?", "Rome", "Milan", "Venice", "Naples"],
     ["Which language has the most native speakers?", "Mandarin", "English", "Spanish", "Arabic"],
     ["How many sides does a hexagon have?", "6", "5", "7", "8"],
@@ -32,7 +30,19 @@
     ["Which continent is Egypt in?", "Africa", "Asia", "Europe", "Australia"],
     ["How many players are on a soccer team?", "11", "10", "9", "12"],
     ["What does CPU stand for?", "Central Processing Unit", "Computer Power Unit", "Core Processing Unit", "Central Program Unit"],
-
+    ["Which type of cable is used for high-capacity lines that provide main routes for telephone, cable, and Internet communications?", "Fiber-optic cables", "Category 6 cables", "Coaxial cables", "All of the above"],
+    ["What organization is the top-level authority for supervising domain name requests?", "ICANN", "DNS", "HTTP", "ISPs"],
+    ["The World Wide Web is a collection of HTML documents, images, videos, and sound files that can be linked to each other and accessed over the Internet using a protocol called _____.", "HTTP", "HTML", "FTP", "IP"],
+    ["Which of the following is a common use of server-side scripting?", "Online shopping", "Changing the appearance of a graphical object displayed on a Web page", "Caching Web pages for quick loading", "All of the above"],
+    ["Which of the following is the technique for improving the ranking and visibility of a Web site?", "Search engine optimization", "Search engine indexer", "Query processor", "Link popularity"],
+    ["Which of the following is not used as a method of user authentication?", "Blood type", "PIN", "Magnetic card", "Fingerprint"],
+    ["Which of the following attacks uses password-cracking software to generate every possible combination of letters, numerals, and symbols?", "Brute force", "Entropy", "Massive", "Dictionary"],
+    ["Which of the following is not a characteristic of a weak password?", "8 characters in length with uppercase letters, numbers, and symbols", "Uses default passwords such as password, admin, system, and guest", "Any sequence that includes a user name", "Use of a word from a dictionary"],
+    ["Which of the following provides multi-factor authentication?", "A smart card and a password", "A password and a PIN", "A fingerprint scan", "A username and a password"],
+    ["Which of the following is not a programming paradigm?", "Predictive", "Declarative", "Procedural", "Object-oriented"],
+    ["In a repetition control structure, the computer is directed to repeat one or more instructions until a certain condition is met. The section of code that repeats is usually referred to as a(n) ___________.", "iteration", "algorithm", "compiler", "rule"],
+    ["Which pillar of information security ensures that data is not changed during transmission?", "Integrity", "Confidentiality", "Availability", "Authentication"],
+    ["A class in object oriented programming is best described as:", "A blueprint for objects", "An instance", "A variable", "A method"]
     ["What is the capital of Germany?", "Berlin", "Munich", "Hamburg", "Frankfurt"],
     ["Which shape has three sides?", "Triangle", "Square", "Circle", "Rectangle"],
     ["What is the main gas in Earth's atmosphere?", "Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
