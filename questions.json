@@ -42,7 +42,7 @@
     ["Which of the following is not a programming paradigm?", "Predictive", "Declarative", "Procedural", "Object-oriented"],
     ["In a repetition control structure, the computer is directed to repeat one or more instructions until a certain condition is met. The section of code that repeats is usually referred to as a(n) ___________.", "iteration", "algorithm", "compiler", "rule"],
     ["Which pillar of information security ensures that data is not changed during transmission?", "Integrity", "Confidentiality", "Availability", "Authentication"],
-    ["A class in object oriented programming is best described as:", "A blueprint for objects", "An instance", "A variable", "A method"]
+    ["A class in object oriented programming is best described as:", "A blueprint for objects", "An instance", "A variable", "A method"],
     ["What is the capital of Germany?", "Berlin", "Munich", "Hamburg", "Frankfurt"],
     ["Which shape has three sides?", "Triangle", "Square", "Circle", "Rectangle"],
     ["What is the main gas in Earth's atmosphere?", "Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
